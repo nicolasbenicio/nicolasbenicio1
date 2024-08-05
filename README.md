@@ -5,6 +5,4 @@ Meu nome é Nicolas Benício
 - Estou aprendendo a linguagem do JavaScript
 - Estarei utiilizando o GIT HUB para desenvolver e compartilhar todos os meus projetos
 
-![](https://media.tenor.com/Tro7Tus6YvIAAAAi/my-honest-reaction-dog.gif)
-
 ![](https://media1.tenor.com/m/pFz1Q12_hXEAAAAd/cat-holding-head-cat.gif)
